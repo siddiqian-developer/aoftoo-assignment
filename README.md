@@ -1,6 +1,6 @@
 # A Request
 
-I hope this will be more than your expectaions. In case, there is some issue, please do tell me. I am open for the *revisions*. 
+I hope this will be more than your expectaions. In case, there is some issue, please do tell me. I am open for the **revisions**. 
 # First of All install all the dependencies
 ## npm i
 
