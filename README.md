@@ -1,6 +1,6 @@
 # Note
 
-The other contributor is my another account.
+The other contributor is also myself and it is my another github account.
 
 # A Request
 
